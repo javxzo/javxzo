@@ -3,7 +3,7 @@
 Nice to meet you! I'm **_Javeria_**, a student at YorkU studying Computer Science and Business. I enjoy working with statistics, graphs, data, and machine learning.
 
 - 🔭 I’m currently working on an _F1 Profile and Analysis Project_ using web scraping, Python, Pandas, and more!
-- 🌱 I’m learning R and AWS (🥹)!
+- 🌱 I’m learning R and AWS (;-;)!
 - 💬 Ask me about my Fragrance Analytics project — it's my favorite so far!
 - 📫 Check out my socials! I'd love to collaborate with you :)
 
