@@ -8,7 +8,7 @@ Nice to meet you! I'm **_Javeria_**, a student at YorkU studying Computer Scienc
 📫 Check out my socials! I'd love to collaborate with you :)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/javeria-alam-xzo) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javeria-alam-xzo/) 
 
 # 💻 Tech Stack:
 ### **Data Science Related Tools & Libraries**
