@@ -1,14 +1,6 @@
-## Hello there! 🪼🪐
+## Hello there! 
 
 Nice to meet you! I'm **_Javeria_**, a student at YorkU studying Computer Science and Business. I enjoy working with statistics, graphs, data, and machine learning.
-
-- 🔭 I’m currently working on an _F1 Profile and Analysis Project_ using web scraping, Python, Pandas, and more!
-- 🌱 I’m learning R!
-- 💬 Ask me about my Fragrance Analytics project — it's my favorite so far!
-- 📫 Check out my socials! I'd love to collaborate with you :)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javeria-alam-xzo/) 
 
 # 💻 Tech Stack:
 ### **Data Science Related Tools & Libraries**
